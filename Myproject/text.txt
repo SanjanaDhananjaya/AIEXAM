@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D4B6-1DB5
+
+ Directory of C:\Users\AERO-36\Desktop\Myproject
+
+28-11-2022  09:36    <DIR>          .
+28-11-2022  09:36    <DIR>          ..
+28-11-2022  09:36                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  208,876,584,960 bytes free
